@@ -1,5 +1,5 @@
 work some changes
 for master is different and second test branch
-work some changes 
+changed from one 
 commit for new branch, also called first test branch
 from one only in one 
