@@ -3,3 +3,4 @@ for master is different and second test branch
 changed from one 
 commit for new branch, also called first test branch
 from one only in one 
+from remote
