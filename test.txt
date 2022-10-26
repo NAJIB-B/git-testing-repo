@@ -5,3 +5,4 @@ commit for new branch, also called first test branch
 from one only in one 
 from remote
 another remote stuff
+from new branch
